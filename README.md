@@ -22,7 +22,6 @@ I'm a passionate developer and problem solver with a knack for building digital 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat&logo=hibernate)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 
 **Tools & Platforms:**  
@@ -47,8 +46,8 @@ I'm a passionate developer and problem solver with a knack for building digital 
 
 ## 📫 Let's Connect
 
-- 📧 gauravgawade@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gauravgawade)  
+- 📧 gawadegaurav2005@gmail.com  
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/coder-gawade-gaurav/)])  
 - 🌐 [Portfolio](https://your-portfolio-link.com)  
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 
